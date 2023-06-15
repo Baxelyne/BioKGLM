@@ -1,4 +1,4 @@
-# BioKGLM, PLM with Biomedical Knowledge Graph for Biomedical Inforamtion Extraction
+# BioKGLM: Biomedical Knowledge Graph enhanced PLM for Biomedical Inforamtion Extraction
 
 **Source codes for the `Briefings in Bioinformatics` paper "[Enriching contextualized language model from knowledge graph for biomedical information extraction](https://academic.oup.com/bib/article/22/3/bbaa110/5854405)"**
 
